@@ -37,10 +37,6 @@ wheels/
 *.swo
 *~
 
-# OS
+# OS (test)
 .DS_Store
 Thumbs.db
-
-# This file should NOT be in the template
-# Students will create this file themselves
-verification_result.json
