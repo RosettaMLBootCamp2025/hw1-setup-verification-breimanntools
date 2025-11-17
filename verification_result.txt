@@ -1,0 +1,31 @@
+======================================================================
+RosettaML Bootcamp 2025 - Environment Setup Verification
+======================================================================
+
+Python Version: 3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:56:31) [Clang 19.1.7 ]
+Platform: macOS-15.6-arm64-arm-64bit
+
+Checking package installations...
+----------------------------------------------------------------------
+✓ PASS   NumPy                (v2.3.5)
+✓ PASS   Pandas               (v2.3.3)
+✓ PASS   Matplotlib           (v3.10.8)
+✓ PASS   Seaborn              (v0.13.2)
+✓ PASS   SciPy                (v1.16.3)
+✓ PASS   scikit-learn         (v1.7.2)
+✓ PASS   Biopython            (v1.86)
+✓ PASS   PyRosetta            (vunknown)
+----------------------------------------------------------------------
+
+✓ Verification file created: verification_result.json
+
+🎉 SUCCESS! All packages are installed correctly!
+
+Next steps:
+1. Open 'verification_result.json' and replace 'REPLACE_WITH_YOUR_NAME' with your actual name
+2. Create a new repository on GitHub named 'HW1'
+3. Commit this verification file to your HW1 repository:
+   git add verification_result.json
+   git commit -m 'Add environment verification'
+   git push
+
